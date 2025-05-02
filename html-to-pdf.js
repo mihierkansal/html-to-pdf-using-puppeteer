@@ -21,12 +21,7 @@ const fs = require("fs/promises");
           text-shadow: 0 -1px 1px #000, 0 1px 1px #fff4;
           box-shadow: 0 -2px 2px #000, 0 3px 2px #fff2, inset 0 0 10px #0007;
 
-          &:active{
-          color:#4488aa;
-                    box-shadow: 0 -2px 2px #000, 0 3px 2px #fff2, inset 0 0 10px #000;
-
-          }
-          }
+          } 
         </style>
       </head>
       <body>
