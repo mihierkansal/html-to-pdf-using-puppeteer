@@ -39,7 +39,7 @@ const fs = require("fs/promises");
 
         <p>Try clicking the link below!</p>
 
-        <a href='https://www.encyro.com/' target="_blank">Visit Encyro</a>
+        <a href='https://www.example.com/' target="_blank">Visit Example</a>
       </body>
     </html>
   `;
